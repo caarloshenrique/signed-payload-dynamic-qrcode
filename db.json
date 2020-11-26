@@ -1,0 +1,99 @@
+{
+  "payload": [
+    {
+      "revisao": "0",
+      "calendario": {
+        "criacao": "2020-11-26T18:08:08.315Z",
+        "apresentacao": "2020-11-26T18:08:08.315Z",
+        "expiracao": "3600"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "fc9a4366ff3d4964b5dbc6c91a8722d3",
+      "solicitacaoPagador": "Informar vale",
+      "status": "ATIVA"
+    },
+    {
+      "revisao": "1",
+      "calendario": {
+        "criacao": "2020-11-26T18:08:08.315Z",
+        "apresentacao": "2020-11-26T18:08:08.315Z",
+        "expiracao": "3600"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "fc9a4366ff3d4964b5dbc6c91a8722d3",
+      "solicitacaoPagador": "Informar vale",
+      "status": "ATIVA"
+    },
+    {
+      "revisao": "2",
+      "calendario": {
+        "criacao": "2020-11-26T18:08:08.315Z",
+        "apresentacao": "2020-11-26T18:08:08.315Z",
+        "expiracao": "3600"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "fc9a4366ff3d4964b5dbc6c91a8722d3",
+      "solicitacaoPagador": "Informar vale",
+      "status": "ATIVA"
+    },
+    {
+      "revisao": "3",
+      "calendario": {
+        "criacao": "2020-11-26T18:08:08.315Z",
+        "apresentacao": "2020-11-26T18:08:08.315Z",
+        "expiracao": "3600"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "fc9a4366ff3d4964b5dbc6c91a8722d3",
+      "solicitacaoPagador": "Informar vale",
+      "status": "ATIVA"
+    },
+    {
+      "revisao": "4",
+      "calendario": {
+        "criacao": "2020-11-26T18:08:08.315Z",
+        "apresentacao": "2020-11-26T18:08:08.315Z",
+        "expiracao": "3600"
+      },
+      "devedor": {
+        "cpf": "12345678901",
+        "nome": "Rapaz que está devendo"
+      },
+      "valor": {
+        "original": "100.00"
+      },
+      "chave": "dd@hotmail.com",
+      "txId": "fc9a4366ff3d4964b5dbc6c91a8722d3",
+      "solicitacaoPagador": "Informar vale",
+      "status": "ATIVA"
+    }
+  ]
+}
